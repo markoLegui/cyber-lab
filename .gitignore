@@ -1,0 +1,38 @@
+# --- VPN y credenciales: NUNCA subir ---
+*.ovpn
+*.conf
+*.key
+*.pem
+*.crt
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+.env
+.env.*
+credentials*
+secrets*
+
+# --- Capturas y datos de laboratorio (pueden contener datos sensibles) ---
+*.pcap
+*.pcapng
+*.cap
+
+# --- Resultados de herramientas voluminosos ---
+*.gnmap
+*.xml
+loot/
+dumps/
+
+# --- Sistema y editores ---
+.DS_Store
+*.swp
+*~
+.vscode/
+.idea/
+
+# --- Python / Bash ---
+__pycache__/
+*.pyc
+venv/
+.venv/
