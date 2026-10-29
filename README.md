@@ -8,7 +8,7 @@ No es un repositorio de "cosas que he visto": cada nota incluye cómo lo he comp
 
 Estudiante de **ASIR** (Administración de Sistemas Informáticos en Red) en España, con el objetivo de dedicarme al pentesting y, a largo plazo, al Red Team. Estudio y practico desde un ThinkPad T440p con Arch Linux y Hyprland.
 
-- Contacto: `<tu email o LinkedIn>`
+- Contacto: markoleguisad@gmail.com
 
 ## Objetivo actual
 
@@ -51,7 +51,3 @@ Por la misma razón, en este repositorio **no** publico:
 ## Herramientas habituales
 
 Nmap · Wireshark · tcpdump · dig · OpenVPN · Bash · Git
-
----
-
-*Repositorio en construcción. Si ves un error técnico en alguna nota, abre un issue: se agradece y lo corrijo.*
